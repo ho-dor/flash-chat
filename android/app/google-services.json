@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "910577682521",
+    "firebase_url": "https://pizzabot-jgsdcv.firebaseio.com",
+    "project_id": "pizzabot-jgsdcv",
+    "storage_bucket": "pizzabot-jgsdcv.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:910577682521:android:f7bc117accf106bc",
+        "android_client_info": {
+          "package_name": "co.kunal.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "910577682521-sh4b7mg1peud4qfs2bonk55hkc3ata1t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAtKutp9tuV8RmwUTNxLQfsqNdsKsqm1XI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "910577682521-k2571ukvvshnn74iibmne7bl90kpcngc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
